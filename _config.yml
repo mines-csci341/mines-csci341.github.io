@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: CSCI 341 Computer Organization
-description: Syllabus
+page.title: CSCI 341 Computer Organization
+site.title: CSCI 341 Computer Organization
 show_downloads: false

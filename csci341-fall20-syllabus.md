@@ -109,7 +109,7 @@ The following percentages show how final grades will be calculated.
 
 Letter grades will be calculated based on the following intervals:
 
-| <!-- -->|  <!-- -->| <!-- -->| 
+| + |  interval | - | 
 |-----------------|-----------------|-----------------|
 |                 | A (93+)         | A– (93- to 90+) |
 | B+ (90- to 87+) | B (87- to 83+)  | B– (83- to 80+) |
@@ -300,11 +300,11 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 
 | week | date | topic   | reading | assignments  | 
 |------|------|---------|---------|--------------|
-| | | **MODULE 1: Overview and Computer Arithmetic** | | |
+|   |      | **MODULE 1: Overview and Computer Arithmetic** | | |
 | 1 | 8/24 | Introduction &amp; Overview | 1.1 - 1.3 | Quiz 1-1 (8/29) |
 |   | 8/26 | Computer Numbers            | 1.4 | Quiz 1-2 (8/29) |
 |   | 8/28 | Computer Arithmetic         | 1.5 - 1.6  | Quiz 1-3 (8/29) HW 1 (9/2) |
-| | | ]**MODULE 2: Assembly Programming in MIPS** | | |
+|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
 | 2 | 8/31 | Intro to MIPS Assembly | 2.1 - 2.3 | Quiz 2-1 (9/5) |
 |   | 9/2  | MIPS operands | 2.3 - 2.5 | Quiz 2-2 (9/5) |
 |   | 9/4  | MIPS Data transfer instructions | 2.4 - 2.5 | Quiz 2-3 (9/5) PA 2A (9/9) |
@@ -320,7 +320,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 6 | 9/28 | Jump Addressing | 2.10 | Quiz 2-12 (10/3) |
 |   | 9/30 | MIPS addressing modes | 2.11-2.14 | Quiz 2-13 (10/3) |
 |   | 10/2 | Review for Midterm Assessment | 1 - 2 | midterm 1 (10/4) |
-| | | **Module 3: CPU Data Pipeline** | | |
+|   |      | **Module 3: CPU Data Pipeline** | | |
 | 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (9/10) |
 |   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (9/10) |
 |   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (9/10) HW 3A (10/14)|
@@ -336,7 +336,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8 | Quiz 3-12 (11/7) |
 |    | 11/4 | Flushing the Pipeline| 3.9 | Quiz 3-13 (11/7) |
 |    | 11/6 | Review for Midterm Assessment | 1 - 3 | midterm 2 (11/8) |
-| | | **Module 4: Memory Hierarchy** | | |
+|    |      | **Module 4: Memory Hierarchy** | | |
 | 12 | 11/9 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
 |    | 11/11 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) |
 |    | 11/13 | Measuring Cache Performance| 4.4 | Quiz 4-3 (11/14) HW 4A (11/18) |

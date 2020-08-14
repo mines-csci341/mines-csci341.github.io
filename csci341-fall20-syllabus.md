@@ -22,9 +22,9 @@ This is a long document; some content you may see in other syllabi, some is spec
 ### Teaching Assistants (TAs)
 
 - Bora Basyildiz  bbasyildiz (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** Tue 4:30pm-6:30pm Zoom link in Canvas
+    **Office Hours:** Tue 4:00pm-6:00pm Zoom link in Canvas
 - Ryan Reschak  ryanjreschak (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** Tue 5:30pm-7:30pm Zoom link in Canvas
+    **Office Hours:** Tue 5:00pm-7:00pm Zoom link in Canvas
 - Adam Sandstedt   asandstedt (at) mymail (dot) mines (dot) edu<br/>
     **Office Hours:** Wed 3:00pm-5:00pm Zoom link in Canvas
 

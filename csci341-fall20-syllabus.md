@@ -305,17 +305,17 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 8/26 | Computer Numbers            | 1.4 | Quiz 1-2 (8/29) |
 |   | 8/28 | Computer Arithmetic         | 1.5 - 1.6  | Quiz 1-3 (8/29) HW 1 (9/2) |
 |   |      | **MODULE 2: Assembly Programming in MIPS** | | |
-| 2 | 8/31 | Intro to MIPS Assembly | 2.1 - 2.3 | Quiz 2-1 (9/5) |
+| 2 | 8/31 | Intro to MIPS Assembly | 2.1 - 2.3, A.1-A.5, A.9 | Quiz 2-1 (9/5) |
 |   | 9/2  | MIPS operands | 2.3 - 2.5 | Quiz 2-2 (9/5) |
-|   | 9/4  | MIPS Data transfer instructions | 2.4 - 2.5 | Quiz 2-3 (9/5) PA 2A (9/9) |
+|   | 9/4  | MIPS Data transfer instructions | 2.4 - 2.5, A.8 | Quiz 2-3 (9/5) PA 2A (9/9) |
 | 3 | 9/7  | **no class** | | |
 |   | 9/9  | MIPS Logical operations | 2.6 | Quiz 2-4 (9/12) |
 |   | 9/11 | MIPS branch instructions| 2.7 | Quiz 2-5 (9/12) HW 2A (9/16)|
-| 4 | 9/14 | Procedures in MIPS | 2.8 | Quiz 2-6 (9/19) |
+| 4 | 9/14 | Procedures in MIPS | 2.8, A.6 | Quiz 2-6 (9/19) |
 |   | 9/16 | The Stack Pointer | 2.8 | Quiz 2-7 (9/19) |
 |   | 9/18 | Nested Procedures | 2.8 | Quiz 2-8 (9/19) PA 2B (9/23) |
 | 5 | 9/21 | Recursive Procedures | 2.8 | Quiz 2-9 (9/26) |
-|   | 9/23 | Machine Instruction Formats | 2.9 | Quiz 2-10 (9/26) |
+|   | 9/23 | Machine Instruction Formats | 2.9, A.10 | Quiz 2-10 (9/26) |
 |   | 9/25 | Branch Addressing | 2.10 |  Quiz 2-11 (9/26) HW 2B (9/30)|
 | 6 | 9/28 | Jump Addressing | 2.10 | Quiz 2-12 (10/3) |
 |   | 9/30 | MIPS addressing modes | 2.11-2.14 | Quiz 2-13 (10/3) |

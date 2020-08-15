@@ -129,7 +129,7 @@ If you do not understand from the feedback provided how to improve your learning
 would be expected at a future full-time position. My general rule of thumb is:
 **_informal_ is okay, but _disrespectful_ is not**.
 
-- You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, and programming assignments.
+- You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, class quizzes, assignments, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
 
 - Reliable internet and computer access will be important; if your access is spotty, develop a backup plan to ensure you can participate in class and complete and submit work on time.
 
@@ -291,6 +291,23 @@ The Colorado School of Mines affirms the principle that all individuals associat
 Academic misconduct is the intentional act of fraud, in which an individual seeks to claim credit for the work and efforts of another without authorization, or uses unauthorized materials or fabricated information in any academic exercise. Student Academic Misconduct arises when a student violates the principle of academic integrity. Such behavior erodes mutual trust, distorts the fair evaluation of academic achievements, violates the ethical code of behavior upon which education and scholarship rest, and undermines the credibility of the university. Because of the serious institutional and individual ramifications, student misconduct arising from violations of academic integrity is not tolerated at Mines. If a student is found to have engaged in such misconduct sanctions such as change of a grade, loss of institutional privileges, or academic suspension or dismissal may be imposed.
 
 The complete policy can be found in the [Mines’ Policy Library](http://inside.mines.edu/POGO-Student).
+
+In addition to the Mines policy, CS@Mines faculty have adopted a [Collaboration Policy](http://cs-courses.mines.edu/csci101/static/CollaborationPolicy.pdf) for all courses. This policy is a minimum standard; we augment this policy below. Read the CS@Mines Collaboration Policy, and be sure to note these items also: 
+
+For CSCI 341, we also apply these collaboration items:
+
+- You are encouraged to discuss (NOT copy) assignments with other students in the class.
+- If you discuss an assignment with anyone (not counting instructors/mentors), you must list their names in your submitted assignment AND provide a brief summary of the discussion.
+- You are not allowed to give code you have developed to another student NOR copy code created by another person (student or otherwise).
+- You can ONLY share your screen in a 1:1 breakout room with an instructor/mentor/TA.
+- Any discussion with another person about your code (or theirs) is subject to the empty hands policy, which means you leave the discussion without any record - electronic, mechanical or otherwise - of the discussion.
+- Any material from any outside source, such as books, projects, and in particular, from the Web, should be properly referenced.
+- Student groups and peer reviewers formed for the purpose of an assignment or exam are permitted to share code as described in the assignment or exam within the group, but otherwise the items of the Collaboration Policy and these items apply.
+
+If you are aware of students violating this policy, you are encouraged to inform me (the instructor).
+Violating this policy will be treated as an academic misconduct for all students involved (both the provider and the receiver of answers). 
+
+**NOTE:** All issues of misconduct are reported to the Dean of Students. Academic misconduct may result in course failure for all students involved and an entry on your school record.
 
 ---
 

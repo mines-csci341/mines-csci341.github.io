@@ -47,7 +47,7 @@ This course includes programming in MIPS assembly, applying concepts from CSCI 2
 
 Course flow, grades, homework, and programming assignments will be provided and submitted on [Canvas](https://elearning.mines.edu/courses/25533). **Please [upload a profile picture](https://guides.instructure.com/m/4212/l/710334) similar to the type used on your blaster card, so we can all get to know each other in this online format.** 
 
-That profile picture should also be used on Zoom and Piazza.
+That profile picture should also be used on [Zoom](https://zoom.us/) and [Piazza](https://piazza.com/).
 
 We use [Piazza](https://piazza.com/mines/fall2020/csci341/home) in the class for communicating with the instructor, TAs, and your classmates.
 
@@ -326,7 +326,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 9/2  | MIPS operands | 2.3 - 2.5 | Quiz 2-2 (9/5) |
 |   | 9/4  | MIPS Data transfer instructions | 2.4 - 2.5, A.8 | Quiz 2-3 (9/5) PA 2A (9/9) |
 | 3 | 9/7  | **no class** | | |
-|   | 9/9  | MIPS Logical operations | 2.6 | Quiz 2-4 (9/12) |
+|   | 9/9  | MIPS Arithmetic operations | 2.6 | Quiz 2-4 (9/12) |
 |   | 9/11 | MIPS branch instructions| 2.7 | Quiz 2-5 (9/12) HW 2A (9/16)|
 | 4 | 9/14 | Procedures in MIPS | 2.8, A.6 | Quiz 2-6 (9/19) |
 |   | 9/16 | The Stack Pointer | 2.8 | Quiz 2-7 (9/19) |

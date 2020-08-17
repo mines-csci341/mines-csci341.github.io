@@ -82,8 +82,11 @@ NOTE: the following resource is **REQUIRED**. I assign readings and activities i
     To purchase the book:
 
     1.  Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com/)
+    
     2.  Enter zyBook code: **MINESCSCI341GarripoliFall2020**
+    
     3. Subscribe: A subscription is $72. Students may begin subscribing on Aug 10, 2020 and the cutoff to subscribe is Dec 03, 2020. Subscriptions will last until Jan 01, 2021.
+    
 
 - Additional resources will be provided in the Canvas course shell.
 

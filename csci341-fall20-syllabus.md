@@ -341,15 +341,15 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 9/30 | MIPS addressing modes | 2.11-2.14 | Quiz 2-13 (10/3) |
 |   | 10/2 | Review for Midterm Assessment | 1 - 2 | midterm 1 (10/4) |
 |   |      | **Module 3: CPU Data Pipeline** | | |
-| 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (9/10) |
-|   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (9/10) |
-|   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (9/10) HW 3A (10/14)|
-| 8 | 10/12 | Building a SC Datapath | 3.3-3.4 | Quiz 3-4 (9/17) |
-|   | 10/14 | Building a SC Datapath, continued | 3.3-3.4 | Quiz 3-5 (9/17) |
-|   | 10/16 | Main Control Unit | 3.3-3.4 | Quiz 3-6 (9/17) PA 3A (10/21) |
+| 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (10/10) |
+|   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (10/10) |
+|   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (10/10) HW 3A (10/14)|
+| 8 | 10/12 | Building a SC Datapath | 3.3-3.4 | Quiz 3-4 (10/17) |
+|   | 10/14 | Building a SC Datapath, continued | 3.3-3.4 | Quiz 3-5 (10/17) |
+|   | 10/16 | Main Control Unit | 3.3-3.4 | Quiz 3-6 (10/17) PA 3A (10/21) |
 | 9 | 10/19 | **no class** | | |
-|   | 10/21 | Introduction to Pipelining | 3.5 | Quiz 3-7 (9/24) |
-|   | 10/23 | Pipelining Control | 3.6 | Quiz 3-8 (9/24) HW 3B (10/28) |
+|   | 10/21 | Introduction to Pipelining | 3.5 | Quiz 3-7 (10/24) |
+|   | 10/23 | Pipelining Control | 3.6 | Quiz 3-8 (10/24) HW 3B (10/28) |
 | 10 | 10/26 | Data Hazards &amp; Forwarding | 3.7 | Quiz 3-9 (10/31) |
 |    | 10/28 | HDU CPU Performance Equation | 3.7 | Quiz 3-10 (10/31) |
 |    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/4) |

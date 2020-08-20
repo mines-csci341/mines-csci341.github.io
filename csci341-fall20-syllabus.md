@@ -320,10 +320,10 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 
 | week | date | topic   | reading | assignments  | 
 |------|------|---------|---------|--------------|
-|   |      | **MODULE 1: Overview and Computer Arithmetic** | | |
-| 1 | 8/24 | Introduction &amp; Overview | Syllabus, 1.1 - 1.3 | Quiz 1-1 (8/29) |
-|   | 8/26 | Computer Numbers            | 1.4 | Quiz 1-2 (8/29) |
-|   | 8/28 | Computer Arithmetic         | 1.5 - 1.6  | Quiz 1-3 (8/29) HW 1 (9/2) |
+|   |      | **MODULE 1: Overview and Computer Numbers** | | |
+| 1 | 8/24 | Introduction &amp; Overview | Syllabus, 1.1 - 1.3, 1.6 | Quiz 1-1 (8/29) |
+|   | 8/26 | Integers on Computers       | 1.4 | Quiz 1-2 (8/29) |
+|   | 8/28 | Real Number on Computers    | 1.5 | Quiz 1-3 (8/29) HW 1 (9/2) |
 |   |      | **MODULE 2: Assembly Programming in MIPS** | | |
 | 2 | 8/31 | Intro to MIPS Assembly | 2.1 - 2.3, A.1-A.5, A.9 | Quiz 2-1 (9/5) |
 |   | 9/2  | MIPS operands | 2.3 - 2.5 | Quiz 2-2 (9/5) |

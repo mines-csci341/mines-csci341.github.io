@@ -351,11 +351,11 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 10/21 | Introduction to Pipelining | 3.5 | Quiz 3-7 (10/24) |
 |   | 10/23 | Pipelining Control | 3.6 | Quiz 3-8 (10/24) HW 3B (10/28) |
 | 10 | 10/26 | Data Hazards &amp; Forwarding | 3.7 | Quiz 3-9 (10/31) |
-|    | 10/28 | HDU CPU Performance Equation | 3.7 | Quiz 3-10 (10/31) |
+|    | 10/28 | HDU CPU Performance Equation | 3.7, 3.13 | Quiz 3-10 (10/31) |
 |    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/4) |
-| 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8 | Quiz 3-12 (11/7) |
-|    | 11/4 | Flushing the Pipeline| 3.9 | Quiz 3-13 (11/7) |
-|    | 11/6 | Review for Midterm Assessment | 1 - 3 | midterm 2 (11/8) |
+| 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 3-12 (11/7) |
+|    | 11/4 | Flushing the Pipeline| 3.8 | Quiz 3-13 (11/7) |
+|    | 11/6 | Review for Midterm Assessment | 3 | midterm 2 (11/8) |
 |    |      | **Module 4: Memory Hierarchy** | | |
 | 12 | 11/9 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
 |    | 11/11 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) |

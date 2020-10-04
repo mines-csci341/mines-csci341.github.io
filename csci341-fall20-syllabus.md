@@ -339,7 +339,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 9/25 | Branch Addressing | 2.10 |  Quiz 2-11 (9/26) HW 2B (9/30)|
 | 6 | 9/28 | Jump Addressing | 2.10 | Quiz 2-12 (10/3) |
 |   | 9/30 | MIPS addressing modes | 2.11-2.14 | Quiz 2-13 (10/3) |
-|   | 10/2 | Review for Midterm Assessment | 1 - 2 | midterm 1 (10/4) |
+|   | 10/2 | Review for Midterm Assessment | 1 - 2 | midterm 1 (10/5-6) |
 |   |      | **Module 3: CPU Data Pipeline** | | |
 | 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (10/10) |
 |   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (10/10) |
@@ -355,7 +355,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/4) |
 | 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 3-12 (11/7) |
 |    | 11/4 | Flushing the Pipeline| 3.8 | Quiz 3-13 (11/7) |
-|    | 11/6 | Review for Midterm Assessment | 3 | midterm 2 (11/8) |
+|    | 11/6 | Review for Midterm Assessment | 3 | midterm 2 (11/9) |
 |    |      | **Module 4: Memory Hierarchy** | | |
 | 12 | 11/9 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
 |    | 11/11 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) |

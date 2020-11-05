@@ -343,36 +343,37 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   |      | **Module 3: CPU Data Pipeline** | | |
 | 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (10/10) |
 |   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (10/10) |
-|   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (10/10) HW 3A (10/14)|
+|   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (10/10) HW 3A (10/16)|
 | 8 | 10/12 | Building a SC Datapath | 3.3-3.4 | Quiz 3-4 (10/17) |
 |   | 10/14 | Building a SC Datapath, continued | 3.3-3.4 | Quiz 3-5 (10/17) |
-|   | 10/16 | Main Control Unit | 3.3-3.4 | Quiz 3-6 (10/17) PA 3A (10/21) |
+|   | 10/16 | Main Control Unit | 3.3-3.4 | Quiz 3-6 (10/17) PA 3A (10/22) |
 | 9 | 10/19 | **no class** | | |
 |   | 10/21 | Introduction to Pipelining | 3.5 | Quiz 3-7 (10/24) |
 |   | 10/23 | Pipelining Control | 3.6 | Quiz 3-8 (10/24) HW 3B (10/28) |
 | 10 | 10/26 | Data Hazards &amp; Forwarding | 3.7 | Quiz 3-9 (10/31) |
 |    | 10/28 | HDU CPU Performance Equation | 3.7, 3.13 | Quiz 3-10 (10/31) |
-|    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/4) |
-| 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 3-12 (11/7) |
+|    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/5) |
+| 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 3-12 (11/7) midterm project (11/9) |
 |    | 11/4 | Flushing the Pipeline| 3.8 | Quiz 3-13 (11/7) |
-|    | 11/6 | Review for Midterm Assessment | 3 | midterm 2 (11/9) |
+|    | 11/6 | Review for Midterm 2 Assessment | 3 |  |
+| 12 | 11/9 | Midterm 2 | 3 | projects reviews exam |
 |    |      | **Module 4: Memory Hierarchy** | | |
-| 12 | 11/9 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
-|    | 11/11 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) |
-|    | 11/13 | Measuring Cache Performance| 4.4 | Quiz 4-3 (11/14) HW 4A (11/18) |
-| 13 | 11/16 | Improving Cache Performance | 4.4 | Quiz 4-4 (11/21) |
-|    | 11/18 | Dependable Memory Hierarchy | 4.5 | Quiz 4-5 (11/21) |
-|    | 11/20 | Virtual memory 1| 4.6 | Quiz 4-6 (11/21) HW 4B (12/2)|
-| 14 | 11/23 | Virtual memory 2| 4.6 | Quiz 4-7 (12/5) |
+|    | 11/11 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
+|    | 11/13 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) HW 4A (11/18) |
+| 13 | 11/16 | Measuring Cache Performance | 4.4 | Quiz 4-3 (11/14)  |
+|    | 11/18 | Improving Cache Performance | 4.4 | Quiz 4-4 (11/21) |
+|    | 11/20 | Dependable Memory Hierarchy | 4.5 | Quiz 4-5 (11/21) HW 4B (12/2)|
+| 14 | 11/23 | Virtual memory | 4.6 | Quiz 4-6 (11/24) |
 |    | 11/25 | **no class** | | |
 |    | 11/27 | **no class** | | |
-| 15 | 11/30 | Framework for Memory Hierarchy | 4.7 | Quiz 4-8 (12/5) |
-|    | 12/2 | Controlling a Simple Cache | 4.7 | Quiz 4-9 (12/5) |
-|    | 12/4 | Cache Coherence | 4.8 | Quiz 4-10 (12/5) PA 4 (12/12) |
+| 15 | 11/30 | Framework for Memory Hierarchy | 4.7 | Quiz 4-7 (12/5) |
+|    | 12/2 | Controlling a Simple Cache | 4.7 | Quiz 4-8 (12/5) |
+|    | 12/4 | Cache Coherence | 4.8 | Quiz 4-9 (12/5) PA 4 (12/9) |
 | 16 | 12/7 | *review week* | 1 - 4 | |
 |    | 12/9 | *review week* | 1 - 4 | |
-|    | 12/11 | *no class (final exam week)* | 1 - 4 | final (12/12) |
+|    | 12/11 | *no class (final exam week)* | | |
 | 17 | 12/14 | *no class (final exam week)* | | |
+|    | 12/15 | final exam 10:15-12:15       | | |
 |    | 12/16 | *no class (final exam week)* | | |
 
 ---

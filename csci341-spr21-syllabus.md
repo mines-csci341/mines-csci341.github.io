@@ -16,7 +16,7 @@ This is a long document; some content you may see in other syllabi, some is spec
 
 **Instructor:** [Amelia Read](https://cs.mines.edu/project/read-amelia/)   read (at) mines (dot) edu<br/>
 **Office Phone:** 720-432-2366 (cell)<br/>
-**Office Hours:** Mon Tue Wed Fri 10:00am-11:00am Zoom link in Canvas
+**Office Hours:** TBD, see poll in Canvas
 
 
 ### Teaching Assistants (TAs)

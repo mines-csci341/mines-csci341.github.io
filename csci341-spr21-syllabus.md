@@ -24,9 +24,9 @@ This is a long document; some content you may see in other syllabi, some is spec
 (shared with Sections A &amp; B)
 - Ethan Perry  eperry1 (at) mymail (dot) mines (dot) edu<br/>
 - Jack Carmichael jcarmichael (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** Tue
+    **Office Hours:** TBD (Tue?)
 - Audrey Horne   audreyhorne (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** Mon
+    **Office Hours:** TBD (Mon?)
 
 ---
 
@@ -44,7 +44,7 @@ This course includes programming in MIPS assembly, applying concepts from CSCI 2
 
 ## Online Community and Communication
 
-Course flow, grades, homework, and programming assignments will be provided and submitted on [Canvas](https://elearning.mines.edu/courses/29126). **Please [upload a profile picture](https://guides.instructure.com/m/4212/l/710334) similar to the type used on your blaster card, so we can all get to know each other in this online format.** 
+Course flow, grades, quizzes, homework, and programming assignments will be provided and submitted on [Canvas](https://elearning.mines.edu/courses/29126). **Please [upload a profile picture](https://guides.instructure.com/m/4212/l/710334) similar to the type used on your blaster card, so we can all get to know each other in this online format.** 
 
 That profile picture should also be used on [Zoom](https://zoom.us/) and [Piazza](https://piazza.com/).
 
@@ -88,11 +88,13 @@ NOTE: the following resource is **REQUIRED**. I assign readings and activities i
 
 ## Assessments
 
-**Reading and Class activities**: You will be working on exercises in the zyBook to show an understanding of the material provided in the text, due before the class the reading applies to; and completing a weekly Canvas quiz in Friday's class based on the week's material. These activities show a basic understanding of the material and comprise 10% of your course grade. 
+**Reading activities**: You will be working on activities in the zyBook to show an understanding of the material provided in the text, due before the class the reading applies to; these activities show a basic understanding of the material and comprise 5% of your course grade. 
 
-**Homeworks and Programming Assignments** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures.
+**Quizzes**: You will have a quiz to complete each Friday, consisting of questions based on that week's material, and allotted 20 minutes of time to complete; these quizzes show further understanding of the material and comprise 20% of your course grade. 
 
-**Midterms and Final**: The exams are comprehensive assessments giving you an opportunity to show that the material has been internalized and can be applied in time-limited situations. 
+**Homework** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will be topical questions or programming specifications. The programming assignments will help you develop your skills with assembly language, while the topical questions will further prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures.
+
+**Midterm and Final**: The exams are comprehensive assessments giving you an opportunity to show that the material has been internalized and can be applied in time-limited situations. 
 
 ## Grading Policy
 
@@ -100,10 +102,10 @@ The following percentages show how final grades will be calculated.
 
 | item                     | percentage    |
 | -------------------------|---------------|
-| reading/class activities | 10%           |
-| homeworks                | 10%           |
-| programming assignments  | 20%           |
-| midterms                 | 25%           |
+| reading activities       |  5%           |
+| quizzes                  | 20%           |
+| homeworks                | 20%           |
+| midterm                  | 25%           |
 | final exam               | 30%           |
 
 Letter grades will be calculated based on the following intervals:
@@ -120,7 +122,7 @@ Letter grades will be calculated based on the following intervals:
 
 We will aim to return coursework with feedback and grades within 3 days of the due date if submitted on time. Reading and quizzes are mostly auto-graded, if manual re-grading is required it will be completed within 3 days of your request. Coursework submitted late will be returned within 1 week of its submission. If outside events slow the return of coursework, students will be notified along with an expected return date.
 
-If you do not understand from the feedback provided how to improve your learning/performance, please contact your instructor.
+If you do not understand from the feedback provided on your coursework how to improve your learning performance, please contact your instructor.
 
 ## Expectations for Success
 
@@ -312,63 +314,69 @@ Violating this policy will be treated as an academic misconduct for all students
 
 ## Course Schedule
 
-This schedule is tentative, and is subject to change. Note, reading includes activities in the zyBook; those are required to be completed prior to the start of class.
+This schedule is tentative, and is subject to change. Note, reading includes activities in the zyBook; those are required to be completed prior to the start of class. Assignments are due the date they are listed unless a due date is given in parentheses.
 
 | week | date | topic   | reading | assignments  | 
 |------|------|---------|---------|--------------|
 |   |      | **MODULE 1: Overview and Computer Numbers** | | |
-| 1 | 8/24 | Introduction &amp; Overview | Syllabus, 1.1 - 1.3, 1.6 |  |
-|   | 8/26 | Integers on Computers       | 1.4, 2.6 through 2.6.6 Overflow | Quiz 1-2 (8/29) |
-|   | 8/28 | Real Number on Computers    | 1.5 | Quiz 1-3 (8/29) HW 1 (9/2) |
-|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
-| 2 | 8/31 | Intro to MIPS Assembly | 2.1 - 2.3, A.1-A.5, A.9 | Quiz 2-1 (9/5) |
-|   | 9/2  | MIPS operands | 2.3 - 2.5 | Quiz 2-2 (9/5) |
-|   | 9/4  | MIPS Data transfer instructions | 2.4 - 2.5, A.8 | Quiz 2-3 (9/5) PA 2A (9/9) |
-| 3 | 9/7  | **no class** | | |
-|   | 9/9  | MIPS Arithmetic operations | 2.6 | Quiz 2-4 (9/12) |
-|   | 9/11 | MIPS branch instructions| 2.7 | Quiz 2-5 (9/12) HW 2A (9/16)|
-| 4 | 9/14 | Procedures in MIPS | 2.8, A.6 | Quiz 2-6 (9/19) |
-|   | 9/16 | The Stack Pointer | 2.8 | Quiz 2-7 (9/19) |
-|   | 9/18 | Nested Procedures | 2.8 | Quiz 2-8 (9/19) PA 2B (9/23) |
-| 5 | 9/21 | Recursive Procedures | 2.8 | Quiz 2-9 (9/26) |
-|   | 9/23 | Machine Instruction Formats | 2.9, A.10 | Quiz 2-10 (9/26) |
-|   | 9/25 | Branch Addressing | 2.10 |  Quiz 2-11 (9/26) HW 2B (9/30)|
-| 6 | 9/28 | Jump Addressing | 2.10 | Quiz 2-12 (10/3) |
-|   | 9/30 | MIPS addressing modes | 2.11-2.14 | Quiz 2-13 (10/3) |
-|   | 10/2 | Review for Midterm Assessment | 1 - 2 | midterm 1 (10/5-6) |
-|   |      | **Module 3: CPU Data Pipeline** | | |
-| 7 | 10/5 | Logic Design Basics | 3.1-3.2 | Quiz 3-1 (10/10) |
-|   | 10/7 | Building Blocks | 3.3 (up to Creating a single datapath) | Quiz 3-2 (10/10) |
-|   | 10/9 | Register File | 3.3 (up to Creating a single datapath) | Quiz 3-3 (10/10) HW 3A (10/16)|
-| 8 | 10/12 | Building a SC Datapath | 3.3-3.4 | Quiz 3-4 (10/17) |
-|   | 10/14 | Building a SC Datapath, continued | 3.3-3.4 | Quiz 3-5 (10/17) |
-|   | 10/16 | Main Control Unit | 3.3-3.4 | Quiz 3-6 (10/17) PA 3A (10/22) |
-| 9 | 10/19 | **no class** | | |
-|   | TBD | Midterm  | 1,2, 3.1-3.3 | Common Exam Schedule|
-|   | 10/21 | Introduction to Pipelining | 3.5 | Quiz 3-7 (10/24) |
-|   | 10/23 | Pipelining Control | 3.6 | Quiz 3-8 (10/24) HW 3B (10/28) |
-| 10 | 10/26 | Data Hazards &amp; Forwarding | 3.7 | Quiz 3-9 (10/31) |
-|    | 10/28 | HDU CPU Performance Equation | 3.7, 3.13 | Quiz 3-10 (10/31) |
-|    | 10/30 | SC vs. Pipelined | 3.7 | Quiz 3-11 (10/31) PA 3B (11/5) |
-| 11 | 11/2 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 3-12 (11/7) midterm project (11/9) |
-|    | 11/4 | Flushing the Pipeline| 3.8 | Quiz 3-13 (11/7) |
-|    | 11/6 | Review for Midterm 2 Assessment | 3 |  |
+| 1 | 1/13 | Introduction &amp; Overview | Syllabus, 1.1 - 1.3, 1.6 | HW 1 (1/21) |
+|   | 1/15 | Integers on Computers       | 1.4 | Quiz 1 |
+| 2 | 1/18 | **no class** | | |
+|   | 1/20 | Integer Operations          | 2.6 through 2.6.6 Overflow  | HW 2 (1/26) |
+|   | 1/22 | Real Numbers on Computers   | 1.5 | Quiz 2 |
+| 3 |      | **MODULE 2: Assembly Programming in MIPS** | | |
+|   | 1/25 | Intro to MIPS Assembly | 2.1 - 2.3, A.1-A.5, A.9 |  |
+|   | 1/27 | MIPS operands | 2.3 - 2.5 | HW 3 (2/2) |
+|   | 1/29 | MIPS Data transfer instructions | 2.4 - 2.5, A.8 | Quiz 3 |
+| 4 | 2/1  | MIPS Arithmetic operations | 2.6 | HW 4 (2/9) |
+|   | 2/3  | MIPS branch instructions| 2.7 | |
+|   | 2/5  | Procedures in MIPS | 2.8, A.6 | Quiz 4  |
+| 5 | 2/8  | The Stack Pointer | 2.8 | HW 5 (2/18) |
+|   | 2/10 | Nested Procedures | 2.8 |  |
+|   | 2/12 | Recursive Procedures | 2.8 | Quiz 5 |
+| 6 | 2/15 | **no class** | | |
+|   | 2/17 | Machine Instruction Formats | 2.9, A.10 | HW 6 (2/23) |
+|   | 2/19 | Branch Addressing | 2.10 | Quiz 6 |
+| 7 | 2/22 | Jump Addressing | 2.10 | HW 7 (3/2) |
+|   | 2/24 | MIPS addressing modes | 2.11 |  |
+|   | 2/26 | C sort example | 2.12-2.14 | Quiz 7 |
+| 8 |      | **Module 3: CPU Data Pipeline** | | |
+|   | 3/1  | Logic Design Basics | 3.1-3.2 | HW 8  (3/9) |
+|   | 3/3  | Building Blocks | 3.3 (up to Creating a single datapath) |  |
+|   | 3/5  | Building a SC Datapath | 3.3 | Quiz 8 |
+| 9 | 3/8  | Building a SC Datapath, continued | 3.3-3.4 | (no HW) |
+|   | 3/10 | Main Control Unit | 3.3-3.4 | |
+|   | TBD  | Midterm  | 1,2, 3.1-3.4 | Common Exam Schedule |
+|   | 3/12 |  | 3.3-3.4 | Quiz 9 |
+| 10 | 3/15 | HDU CPU Performance Equation | 3.13 | HW 9 (3/21) |
+|    | 3/17 | Introduction to Pipelining | 3.5 | |
+|    | 3/19 | Pipelining Control | 3.6 | Quiz 10 |
+| 11 | 3/22 | Data Hazards &amp; Forwarding | 3.7 | HW 10 (4/6) |
+|    | 3/24 | SC vs. Pipelined Performance | 3.7, 3.13 |  |
+|    | 3/26 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 11 |
+| SB | 3/29 | **no class** | | |
+| SB | 3/31 | **no class** | | |
+| SB | 4/2  | **no class** | | |
+|
+| 12 | 4/5  | Flushing the Pipeline | 3.8 | HW 11 (4/13) |
+|    | 4/7  | Branch Architecture   | 3.8 | |
 |    |      | **Module 4: Memory Hierarchy** | | |
-|    | 11/11 | Types of Memory | 4.1-4.2 | Quiz 4-1 (11/14) |
-|    | 11/13 | Basics of Caches | 4.3 | Quiz 4-2 (11/14) HW 4A (11/18) |
-| 13 | 11/16 | Measuring Cache Performance | 4.4 | Quiz 4-3 (11/14)  |
-|    | 11/18 | Improving Cache Performance | 4.4 | Quiz 4-4 (11/21) |
-| 14 | 11/23 | Virtual memory | 4.6 | Quiz 4-6 (11/24) |
-|    | 11/25 | **no class** | | |
-|    | 11/27 | **no class** | | |
-| 15 | 11/30 | Framework for Memory Hierarchy | 4.7 | Quiz 4-7 (12/5) |
-|    | 12/2 | Controlling a Simple Cache | 4.7 | Quiz 4-8 (12/5) |
-| 16 | 12/7 | *review week* | 1 - 4 | |
-|    | 12/9 | *review week* | 1 - 4 | |
-|    | 12/11 | *no class (final exam week)* | | |
-| 17 | 12/14 | *no class (final exam week)* | | |
-|    | TBD | Final Exam | | |
-|    | 12/16 | *no class (final exam week)* | | |
+|    | 4/9  | Types of Memory, Locality | 4.1-4.2 | Quiz 12 |
+| 13 | 4/12 | Basics of Caches | 4.3 | HW 12 (4/20)  |
+|    | 4/14 | Measuring Cache Performance | 4.4 |  |
+|    | 4/16 | Improving Cache Performance | 4.4 |  Quiz 13 |
+| 14 | 4/19 | Virtual memory 1 | 4.6 | HW 13 (4/27) |
+|    | 4/21 | Virtual memory 2 | 4.6 |  |
+|    | 4/23 |  | | Quiz 14 |
+| 15 | 4/26 | Framework for Memory Hierarchy | 4.7 | HW 14 (5/4) |
+|    | 4/28 | Framework for Memory Hierarchy | 4.7 |  |
+|    | 4/30 |   |   | Quiz 15 |
+| 16 | 5/3  | *review week* | 1 - 4 | |
+|    | 5/5  | *review week* | 1 - 4 | |
+| F  | TBD  | Final Exam | | |
+|    | 5/7  | *no class (final exam week)* | | |
+|    | 5/10 | *no class (final exam week)* | | |
+|    | 5/12 | *no class (final exam week)* | | |
 
 ---
 

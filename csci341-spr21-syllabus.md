@@ -92,9 +92,9 @@ NOTE: the following resource is **REQUIRED**. I assign readings and activities i
 
 **Quizzes**: You will have a quiz to complete each Friday, consisting of questions based on that week's material, and allotted 20 minutes of time to complete; these quizzes show further understanding of the material and comprise 20% of your course grade. 
 
-**Homework** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will be topical questions or programming specifications. The programming assignments will help you develop your skills with assembly language, while the topical questions will further prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures.
+**Homework** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will be topical questions or programming specifications. The programming assignments will help you develop your skills with assembly language, while the topical questions will further prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures. The homeworks comprise 20% of your course grade.
 
-**Midterm and Final**: The exams are comprehensive assessments giving you an opportunity to show that the material has been internalized and can be applied in time-limited situations. 
+**Midterm and Final**: The exams are comprehensive assessments giving you an opportunity to show that the material has been internalized and can be applied in time-limited situations. The midterm is 25% of your course grade, and the final exam is 30% of your course grade.
 
 ## Grading Policy
 

@@ -357,7 +357,6 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | SB | 3/29 | **no class** | | |
 | SB | 3/31 | **no class** | | |
 | SB | 4/2  | **no class** | | |
-|
 | 12 | 4/5  | Flushing the Pipeline | 3.8 | HW 11 (4/13) |
 |    | 4/7  | Branch Architecture   | 3.8 | |
 |    | 4/9  | Pipeline Architecture Review | 3.10 | Quiz 12 |

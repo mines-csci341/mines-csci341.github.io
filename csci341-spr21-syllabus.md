@@ -76,7 +76,7 @@ At the end of this course, students will be able to:
 
 NOTE: the following resource is **REQUIRED**. I assign readings and activities in the zyBook.
 
-- [*Zybooks Computer Organization and Design*](https://) ZyBooks edition, Pattersen and Hennessy. This includes material from the fifth edition, reorganized to match class flow. 
+- [*Zybooks Computer Organization and Design*](https://elearning.mines.edu/courses/25533) ZyBooks edition, Pattersen and Hennessy. This includes material from the fifth edition, reorganized to match class flow. 
 
     To purchase the book:
 
@@ -344,14 +344,14 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 3/1  | Logic Design Basics | 3.1-3.2 | HW 8  (3/9) |
 |   | 3/3  | Building Blocks | 3.3 (up to Creating a single datapath) |  |
 |   | 3/5  | Building a SC Datapath | 3.3 | Quiz 8 |
-| 9 | 3/8  | Building a SC Datapath, continued | 3.3-3.4 | (no HW) |
-|   | 3/10 | Main Control Unit | 3.3-3.4 | |
+| 9 | 3/8  | Building a SC Datapath, continued | 3.3 | (no HW) |
+|   | 3/10 | Main Control Unit | 3.4 | |
 |   | TBD  | Midterm  | 1,2, 3.1-3.4 | Common Exam Schedule |
-|   | 3/12 |  | 3.3-3.4 | Quiz 9 |
-| 10 | 3/15 | HDU CPU Performance Equation | 3.13 | HW 9 (3/21) |
+|   | 3/12 | Single Cycle Datapath Review | 3.1-3.4 | Quiz 9 |
+| 10 | 3/15 | HDU CPU Performance Equation | 3.13  | HW 9 (3/21) |
 |    | 3/17 | Introduction to Pipelining | 3.5 | |
 |    | 3/19 | Pipelining Control | 3.6 | Quiz 10 |
-| 11 | 3/22 | Data Hazards &amp; Forwarding | 3.7 | HW 10 (4/6) |
+| 11 | 3/22 | Data Hazards &amp; Forwarding  | 3.7 | HW 10 (4/6) |
 |    | 3/24 | SC vs. Pipelined Performance | 3.7, 3.13 |  |
 |    | 3/26 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 11 |
 | SB | 3/29 | **no class** | | |
@@ -360,17 +360,17 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |
 | 12 | 4/5  | Flushing the Pipeline | 3.8 | HW 11 (4/13) |
 |    | 4/7  | Branch Architecture   | 3.8 | |
-|    |      | **Module 4: Memory Hierarchy** | | |
-|    | 4/9  | Types of Memory, Locality | 4.1-4.2 | Quiz 12 |
-| 13 | 4/12 | Basics of Caches | 4.3 | HW 12 (4/20)  |
-|    | 4/14 | Measuring Cache Performance | 4.4 |  |
-|    | 4/16 | Improving Cache Performance | 4.4 |  Quiz 13 |
-| 14 | 4/19 | Virtual memory 1 | 4.6 | HW 13 (4/27) |
-|    | 4/21 | Virtual memory 2 | 4.6 |  |
-|    | 4/23 |  | | Quiz 14 |
+|    | 4/9  | Pipeline Architecture Review | 3.10 | Quiz 12 |
+| 13 |      | **Module 4: Memory Hierarchy** | | |
+|    | 4/12 | Types of Memory, Locality | 4.1-4.2 | HW 12 (4/20)  |
+|    | 4/14 | Basics of Caches | 4.3 |  |
+|    | 4/16 | Measuring Cache Performance | 4.4 |  Quiz 13 |
+| 14 | 4/19 | Improving Cache Performance | 4.4 | HW 13 (4/27) |
+|    | 4/21 | Virtual memory 1 | 4.6 |  |
+|    | 4/23 | Virtual memory 2 | 4.6 | Quiz 14 |
 | 15 | 4/26 | Framework for Memory Hierarchy | 4.7 | HW 14 (5/4) |
 |    | 4/28 | Framework for Memory Hierarchy | 4.7 |  |
-|    | 4/30 |   |   | Quiz 15 |
+|    | 4/30 | Memory Hierarchy Review | 4.9 | Quiz 15 |
 | 16 | 5/3  | *review week* | 1 - 4 | |
 |    | 5/5  | *review week* | 1 - 4 | |
 | F  | TBD  | Final Exam | | |

@@ -383,6 +383,6 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 
 This syllabus is intended to give students guidance on this course this semester and will be followed as closely as possible. The instructor reserves the right to modify, supplement and make changes as the course needs arise. This syllabus is not a legal document; common sense rules always apply, e.g., no late assignments will be accepted after the solutions are discussed or available.
 
-## Acknowledgements
-
+<!-- Acknowledgements
 The markdown used here was adapted from Dr. McClurg's CSCI 400 syllabus; much of the general content was provided by Trefny, with some policies adapted from Dr. Dave's previous CSCI 341 syllabus and the CSCI 101 syllabus.
+-->

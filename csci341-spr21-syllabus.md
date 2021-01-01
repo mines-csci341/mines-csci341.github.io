@@ -345,7 +345,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 3/10 | FP arithmetic | 1.7 | |
 |   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
 |   |      | **Module 3: CPU Data Pipeline** | | |
-|   | 3/12 | CPU performance evaluation | 4.1 | Quiz 9 |
+|   | 3/12 | CPU performance evaluation | 4.1, 4.2 | Quiz 9 |
 | 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | HW 9 (3/22) |
 |    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | |
 |    | 3/19 | Control design | 5.4 | Quiz 10 |

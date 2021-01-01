@@ -128,7 +128,7 @@ If you do not understand from the feedback provided on your coursework how to im
 
 - You are expected to engage in all course activities, tasks, and assignment as an emerging professional. The Mines Academic Integrity Policy and CS@Mines Collaboration Policies form a core part of your expected ethical behavior. Make sure you are behaving with the same level of professionalism that
 would be expected at a future full-time position. My general rule of thumb is:
-**_informal_ is okay, but _disrespectful_ is not**.
+**_informal_ is okay, but _disrespectful_ is not**. For example, you can address me as Amelia, Prof. Read, or Miss Read, but do not address me as "Hey".
 
 - You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, class quizzes, assignments, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
 
@@ -136,9 +136,7 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - All reading, class, homework and programming assignments need to be turned in by the dates and times they are due. Canvas submissions must be completed by the Canvas due date/time; if Canvas marks it as late, then it is late. Early submission is permitted.
 
-- During the semester, you may request up to three 1-day extensions (slip days) on reading, class, homework or programming assignments with no explanation needed and no penalty. These can be requested when the work is submitted, in the Canvas Submission Comments. These can be used seperately or combined, but not subdivided (e.g. no half-days).
-
-- A 10% penalty per day (or part of a day) will be applied to work submitted late without slip days (or those days not handled as slip days). Work will not be accepted more than 1 week late. 
+- A 10% penalty per day (or part of a day) will be applied to work submitted late. Work will not be accepted more than 1 week late. 
 
 - If you have an excused absence for pre-planned activities, those assignments must be turned in before the due date. 
 
@@ -319,59 +317,59 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | week | date | topic   | reading | assignments  | 
 |------|------|---------|---------|--------------|
 |   |      | **MODULE 1: Overview and Computer Numbers** | | |
-| 1 | 1/13 | Introduction &amp; Overview | Syllabus, 1.1 - 1.3, 1.6 | HW 1 (1/21) |
-|   | 1/15 | Integers on Computers       | 1.4 | Quiz 1 |
+| 1 | 1/13 | Introduction, Integers | Syllabus, 1.1 - 1.6 | HW 1 (1/20) |
+|   | 1/15 | Floating point representation | 1.7 | Quiz 1 |
 | 2 | 1/18 | **no class** | | |
-|   | 1/20 | Integer Operations          | 2.6 through 2.6.6 Overflow  | HW 2 (1/26) |
-|   | 1/22 | Real Numbers on Computers   | 1.5 | Quiz 2 |
-| 3 |      | **MODULE 2: Assembly Programming in MIPS** | | |
-|   | 1/25 | Intro to MIPS Assembly | 2.1 - 2.3, A.1-A.5, A.9 |  |
-|   | 1/27 | MIPS operands | 2.3 - 2.5 | HW 3 (2/2) |
-|   | 1/29 | MIPS Data transfer instructions | 2.4 - 2.5, A.8 | Quiz 3 |
-| 4 | 2/1  | MIPS Arithmetic operations | 2.6 | HW 4 (2/9) |
-|   | 2/3  | MIPS branch instructions| 2.7 | |
-|   | 2/5  | Procedures in MIPS | 2.8, A.6 | Quiz 4  |
-| 5 | 2/8  | The Stack Pointer | 2.8 | HW 5 (2/18) |
-|   | 2/10 | Nested Procedures | 2.8 |  |
-|   | 2/12 | Recursive Procedures | 2.8 | Quiz 5 |
+|   | 1/20 | Floating point representation | 1.7 | HW 2 (1/27) |
+|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
+|   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | Quiz 2 |
+| 3 | 1/25 | Memory access instructions | 2.5-2.6 | HW 3 (2/3) |
+|   | 1/27 | Memory access instructions II | 2.6 | |
+|   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
+| 4 | 2/1  | Decision making instructions| 2.8 | HW 4 (2/10) |
+|   | 2/3  | Programming examples | A.1-A.5 | |
+|   | 2/5  | Inequality comparison | 2.9 | Quiz 4  |
+| 5 | 2/8  | Arrays vs. pointers | 2.9 | HW 5 (2/17) |
+|   | 2/10 | Procedures | 2.10 |  |
+|   | 2/12 | Procedure conventions | Canvas | Quiz 5 |
 | 6 | 2/15 | **no class** | | |
-|   | 2/17 | Machine Instruction Formats | 2.9, A.10 | HW 6 (2/23) |
-|   | 2/19 | Branch Addressing | 2.10 | Quiz 6 |
-| 7 | 2/22 | Jump Addressing | 2.10 | HW 7 (3/2) |
-|   | 2/24 | MIPS addressing modes | 2.11 |  |
-|   | 2/26 | C sort example | 2.12-2.14 | Quiz 7 |
-| 8 |      | **Module 3: CPU Data Pipeline** | | |
-|   | 3/1  | Logic Design Basics | 3.1-3.2 | HW 8  (3/9) |
-|   | 3/3  | Building Blocks | 3.3 (up to Creating a single datapath) |  |
-|   | 3/5  | Building a SC Datapath | 3.3 | Quiz 8 |
-| 9 | 3/8  | Building a SC Datapath, continued | 3.3 | (no HW) |
-|   | 3/10 | Main Control Unit | 3.4 | |
-|   | TBD  | Midterm  | 1,2, 3.1-3.4 | Common Exam Schedule |
-|   | 3/12 | Single Cycle Datapath Review | 3.1-3.4 | Quiz 9 |
-| 10 | 3/15 | HDU CPU Performance Equation | 3.13  | HW 9 (3/21) |
-|    | 3/17 | Introduction to Pipelining | 3.5 | |
-|    | 3/19 | Pipelining Control | 3.6 | Quiz 10 |
-| 11 | 3/22 | Data Hazards &amp; Forwarding  | 3.7 | HW 10 (4/6) |
-|    | 3/24 | SC vs. Pipelined Performance | 3.7, 3.13 |  |
-|    | 3/26 | Amdahl's Law and Control Hazards| 3.8, 3.14 | Quiz 11 |
+|   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/24) |
+|   | 2/19 | Procedure examples | | Quiz 6 |
+| 7 | 2/22 | Instruction formats overview | 2.12 | HW 7 (3/3) |
+|   | 2/24 | l format (lui, lw, sw), branch formats | 2.12, 2.13 |  |
+|   | 2/26 | conditional and unconditional branch instruction formats | 2.13| Quiz 7 |
+| 8 | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | HW 8  (3/10) |
+|   | 3/3  | Computer arithmetic (mult. algorithms) | 3.3 |  |
+|   | 3/5  | Computer arithmetic (division algorithms) | 3.4 | Quiz 8 |
+| 9 | 3/8  | Floating Point arithmetic | 1.7 | (no HW) |
+|   | 3/10 | FP arithmetic | 1.7 | |
+|   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
+|   |      | **Module 3: CPU Data Pipeline** | | |
+|   | 3/12 | CPU performance evaluation | 4.1 | Quiz 9 |
+| 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | HW 9 (3/22) |
+|    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | |
+|    | 3/19 | Control design | 5.4 | Quiz 10 |
+| 11 | 3/22 | single cycle datapath and control integrated | 5.4 | HW 10 (4/7) |
+|    | 3/24 | SC Performance |  |  |
+|    | 3/26 | Pipelining overview | 5.5 | Quiz 11 |
 | SB | 3/29 | **no class** | | |
-| SB | 3/31 | **no class** | | |
-| SB | 4/2  | **no class** | | |
-| 12 | 4/5  | Flushing the Pipeline | 3.8 | HW 11 (4/13) |
-|    | 4/7  | Branch Architecture   | 3.8 | |
-|    | 4/9  | Pipeline Architecture Review | 3.10 | Quiz 12 |
-| 13 |      | **Module 4: Memory Hierarchy** | | |
-|    | 4/12 | Types of Memory, Locality | 4.1-4.2 | HW 12 (4/20)  |
-|    | 4/14 | Basics of Caches | 4.3 |  |
-|    | 4/16 | Measuring Cache Performance | 4.4 |  Quiz 13 |
-| 14 | 4/19 | Improving Cache Performance | 4.4 | HW 13 (4/27) |
-|    | 4/21 | Virtual memory 1 | 4.6 |  |
-|    | 4/23 | Virtual memory 2 | 4.6 | Quiz 14 |
-| 15 | 4/26 | Framework for Memory Hierarchy | 4.7 | HW 14 (5/4) |
-|    | 4/28 | Framework for Memory Hierarchy | 4.7 |  |
-|    | 4/30 | Memory Hierarchy Review | 4.9 | Quiz 15 |
-| 16 | 5/3  | *review week* | 1 - 4 | |
-|    | 5/5  | *review week* | 1 - 4 | |
+|    | 3/31 | **no class** | | |
+|    | 4/2  | **no class** | | |
+| 12 | 4/5  | Pipelined datapath | 5.6 | HW 11 (4/14) |
+|    | 4/7  | Pipeline control   | 5.6 | |
+|    | 4/9  | Data hazard | 5.7 | Quiz 12 |
+| 13 | 4/12 | Data hazard, continued | 5.7 | HW 12 (4/21)  |
+|    | 4/14 | Control hazard | 5.8 |  |
+|    | 4/16 | Hazards interactions  | 5.7-5.8 |  Quiz 13 |
+| 14 |      | **Module 4: Memory Hierarchy** | | |
+|    | 4/19 | Memory Hierarchy Basics | 6.1-6.3 | HW 13 (4/28) |
+|    | 4/21 | Direct-mapped caches | 6.3 |  |
+|    | 4/23 | Cache performance | 6.3 | Quiz 14 |
+| 15 | 4/26 | Full/set associative cache design | 6.4 | HW 14 (5/5) |
+|    | 4/28 | Cache access | 6.4 |  |
+|    | 4/30 | Virtual memory basics | 6.7 | Quiz 15 |
+| 16 | 5/3  | *review week* | 1 - 6 | |
+|    | 5/5  | *review week* | 1 - 6 | |
 | F  | TBD  | Final Exam | | |
 |    | 5/7  | *no class (final exam week)* | | |
 |    | 5/10 | *no class (final exam week)* | | |

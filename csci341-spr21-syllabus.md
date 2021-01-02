@@ -328,11 +328,11 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   | 1/27 | Memory access instructions II | 2.6 | |
 |   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
 | 4 | 2/1  | Decision making instructions| 2.8 | HW 4 (2/10) |
-|   | 2/3  | Programming examples | A.1-A.5 | |
+|   | 2/3  | Programming examples | 8.1-8.5 | |
 |   | 2/5  | Inequality comparison | 2.9 | Quiz 4  |
 | 5 | 2/8  | Arrays vs. pointers | 2.9 | HW 5 (2/17) |
 |   | 2/10 | Procedures | 2.10 |  |
-|   | 2/12 | Procedure conventions | Canvas | Quiz 5 |
+|   | 2/12 | Procedure conventions | 8.6, Canvas | Quiz 5 |
 | 6 | 2/15 | **no class** | | |
 |   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/24) |
 |   | 2/19 | Procedure examples | | Quiz 6 |

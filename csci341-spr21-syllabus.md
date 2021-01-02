@@ -321,53 +321,53 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 1 | 1/13 | Introduction, Integers | Syllabus, 1.1 - 1.6 | HW 1 (1/20) |
 |   | 1/15 | Floating point representation | 1.7 | Quiz 1 |
 | 2 | 1/18 | **no class** | | |
-|   | 1/20 | Floating point representation | 1.7 | HW 2 (1/27) |
-|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
+|   | 1/20 | Floating point representation | 1.7 | |
+|   |      | **MODULE 2: Assembly Programming in MIPS** | |HW 2 (1/26) | 
 |   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | Quiz 2 |
-| 3 | 1/25 | Memory access instructions | 2.5-2.6 | HW 3 (2/3) |
-|   | 1/27 | Memory access instructions II | 2.6 | |
+| 3 | 1/25 | Memory access instructions | 2.5-2.6 | |
+|   | 1/27 | Memory access instructions II | 2.6 | HW 3 (2/2) |
 |   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
-| 4 | 2/1  | Decision making instructions| 2.8 | HW 4 (2/10) |
-|   | 2/3  | Programming examples | 8.1-8.5 | |
+| 4 | 2/1  | Decision making instructions| 2.8 | |
+|   | 2/3  | Programming examples | 8.1-8.5 | HW 4 (2/9) |
 |   | 2/5  | Inequality comparison | 2.9 | Quiz 4  |
-| 5 | 2/8  | Arrays vs. pointers | 2.9 | HW 5 (2/17) |
-|   | 2/10 | Procedures | 2.10 |  |
+| 5 | 2/8  | Arrays vs. pointers | 2.9 | |
+|   | 2/10 | Procedures | 2.10 |  HW 5 (2/17)  |
 |   | 2/12 | Procedure conventions | 8.6, Canvas | Quiz 5 |
 | 6 | 2/15 | **no class** | | |
-|   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/24) |
+|   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/23) |
 |   | 2/19 | Procedure examples | | Quiz 6 |
-| 7 | 2/22 | Instruction formats overview | 2.12 | HW 7 (3/3) |
-|   | 2/24 | l format (lui, lw, sw), branch formats | 2.12, 2.13 |  |
+| 7 | 2/22 | Instruction formats overview | 2.12 | |
+|   | 2/24 | l format (lui, lw, sw), branch formats | 2.12, 2.13 | HW 7 (3/2)  |
 |   | 2/26 | conditional and unconditional branch instruction formats | 2.13| Quiz 7 |
-| 8 | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | HW 8  (3/10) |
-|   | 3/3  | Computer arithmetic (mult. algorithms) | 3.3 |  |
+| 8 | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | |
+|   | 3/3  | Computer arithmetic (mult. algorithms) | 3.3 |  HW 8  (3/9)  |
 |   | 3/5  | Computer arithmetic (division algorithms) | 3.4 | Quiz 8 |
 | 9 | 3/8  | Floating Point arithmetic | 1.7 | (no HW) |
 |   | 3/10 | FP arithmetic | 1.7 | |
 |   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
 |   |      | **Module 3: CPU Data Pipeline** | | |
 |   | 3/12 | CPU performance evaluation | 4.1, 4.2 | Quiz 9 |
-| 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | HW 9 (3/22) |
-|    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | |
+| 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | |
+|    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | HW 9 (3/23) |
 |    | 3/19 | Control design | 5.4 | Quiz 10 |
-| 11 | 3/22 | single cycle datapath and control integrated | 5.4 | HW 10 (4/7) |
-|    | 3/24 | SC Performance |  |  |
+| 11 | 3/22 | single cycle datapath and control integrated | 5.4 | |
+|    | 3/24 | SC Performance |  | HW 10 (4/6)  |
 |    | 3/26 | Pipelining overview | 5.5 | Quiz 11 |
 | SB | 3/29 | **no class** | | |
 |    | 3/31 | **no class** | | |
 |    | 4/2  | **no class** | | |
-| 12 | 4/5  | Pipelined datapath | 5.6 | HW 11 (4/14) |
-|    | 4/7  | Pipeline control   | 5.6 | |
+| 12 | 4/5  | Pipelined datapath | 5.6 | |
+|    | 4/7  | Pipeline control   | 5.6 | HW 11 (4/13) |
 |    | 4/9  | Data hazard | 5.7 | Quiz 12 |
-| 13 | 4/12 | Data hazard, continued | 5.7 | HW 12 (4/21)  |
-|    | 4/14 | Control hazard | 5.8 |  |
+| 13 | 4/12 | Data hazard, continued | 5.7 | |
+|    | 4/14 | Control hazard | 5.8 |  HW 12 (4/20)  |
 |    | 4/16 | Hazards interactions  | 5.7-5.8 |  Quiz 13 |
 | 14 |      | **Module 4: Memory Hierarchy** | | |
-|    | 4/19 | Memory Hierarchy Basics | 6.1-6.3 | HW 13 (4/28) |
-|    | 4/21 | Direct-mapped caches | 6.3 |  |
+|    | 4/19 | Memory Hierarchy Basics | 6.1-6.3 | |
+|    | 4/21 | Direct-mapped caches | 6.3 |  HW 13 (4/27)  |
 |    | 4/23 | Cache performance | 6.3 | Quiz 14 |
-| 15 | 4/26 | Full/set associative cache design | 6.4 | HW 14 (5/5) |
-|    | 4/28 | Cache access | 6.4 |  |
+| 15 | 4/26 | Full/set associative cache design | 6.4 | | 
+|    | 4/28 | Cache access | 6.4 | HW 14 (5/4)  | |
 |    | 4/30 | Virtual memory basics | 6.7 | Quiz 15 |
 | 16 | 5/3  | *review week* | 1 - 6 | |
 |    | 5/5  | *review week* | 1 - 6 | |

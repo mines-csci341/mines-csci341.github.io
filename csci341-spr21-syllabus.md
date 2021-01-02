@@ -10,23 +10,22 @@
 
 **Class Location:**    Zoom (links on Canvas)
 
-This is a long document; some content you may see in other syllabi, some is specific to this course. Be sure to read it all, so you are aware of this course's policies and expectations.
+This is a long document; some content you may see in other syllabi, some is specific to this course. Do not assume 262 policies apply in this class - this syllabus lays out this course's policies. Be sure to read it all, so you are aware of this course's policies and expectations.
 
 ---
 
-**Instructor:** [Amelia Read](https://cs.mines.edu/project/read-amelia/)   read (at) mines (dot) edu<br/>
+**Instructor:** [Prof. Amelia Read](https://cs.mines.edu/project/read-amelia/)   read (at) mines (dot) edu<br/>
 **Office Phone:** 720-432-2366 (cell)<br/>
-**Office Hours:** TBD, see poll in Canvas
-
+**Office Hours:** 10am-11:30am Monday, 2pm-4pm Tuesday, 6pm-7:30pm Wednesday or by arrangement on Thursday or Friday (link in Canvas)
 
 ### Teaching Assistants (TAs)
 
 (shared with Sections A &amp; B)
 - Ethan Perry  eperry1 (at) mymail (dot) mines (dot) edu<br/>
 - Jack Carmichael jcarmichael (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** TBD (Tue?)
+    **Office Hours:** Tuesday 4pm-6pm (link in Canvas)
 - Audrey Horne   audreyhorne (at) mymail (dot) mines (dot) edu<br/>
-    **Office Hours:** TBD (Mon?)
+    **Office Hours:** Monday 5pm-7pm (link in Canvas)
 
 ---
 
@@ -90,9 +89,9 @@ NOTE: the following resource is **REQUIRED**. I assign readings and activities i
 
 **Reading activities**: You will be working on activities in the zyBook to show an understanding of the material provided in the text, due before the class the reading applies to; these activities show a basic understanding of the material and comprise 5% of your course grade. 
 
-**Quizzes**: You will have a quiz to complete each Friday, consisting of questions based on that week's material, and allotted 20 minutes of time to complete; these quizzes show further understanding of the material and comprise 20% of your course grade. 
+**Quizzes**: You will have a timed quiz to complete each Friday, consisting of questions based on that week's material. The quiz is open for 20 minutes once started, or adjusted per accommodations. These quizzes show further understanding of the material and comprise 20% of your course grade. One submission only is permitted; be on a reliable internet connection when you start the quiz.
 
-**Homework** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will be topical questions or programming specifications. The programming assignments will help you develop your skills with assembly language, while the topical questions will further prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures. The homeworks comprise 20% of your course grade.
+**Homework** will show a deeper comprehension of the material, giving you an opportunity to apply what you have learned in new scenarios not covered in the book or class. These will be topical questions or programming assignments. The programming assignments will help you develop your skills with assembly language, while the topical questions will further prepare you for the assessments made in the midterms and final exams as well as showing the ability apply the material learned. These will generally be due on Tuesdays, with some adjustments around school closures. The homeworks comprise 20% of your course grade.
 
 **Midterm and Final**: The exams are comprehensive assessments giving you an opportunity to show that the material has been internalized and can be applied in time-limited situations. The midterm is 25% of your course grade, and the final exam is 30% of your course grade.
 
@@ -120,7 +119,7 @@ Letter grades will be calculated based on the following intervals:
 
 ## Coursework Return Policy
 
-We will aim to return coursework with feedback and grades within 3 days of the due date if submitted on time. Reading and quizzes are mostly auto-graded, if manual re-grading is required it will be completed within 3 days of your request. Coursework submitted late will be returned within 1 week of its submission. If outside events slow the return of coursework, students will be notified along with an expected return date.
+We aim to return on-time coursework with feedback and grades within 3 days of the due date if submitted on time. Reading and quizzes are usually auto-graded, if manual re-grading is required it will be completed within 3 days of your request. We aim to return late coursework within 1 week of its submission. If outside events slow the return of coursework, students will be notified along with an expected return date.
 
 If you do not understand from the feedback provided on your coursework how to improve your learning performance, please contact your instructor.
 
@@ -128,15 +127,17 @@ If you do not understand from the feedback provided on your coursework how to im
 
 - You are expected to engage in all course activities, tasks, and assignment as an emerging professional. The Mines Academic Integrity Policy and CS@Mines Collaboration Policies form a core part of your expected ethical behavior. Make sure you are behaving with the same level of professionalism that
 would be expected at a future full-time position. My general rule of thumb is:
-**_informal_ is okay, but _disrespectful_ is not**. For example, you can address me as Amelia, Prof. Read, or Miss Read, but do not address me as "Hey".
+**_informal_ is acceptable, but _disrespectful_ is not**. For example, you can address me as Amelia, Prof. Read, or Miss Read, but do not address me as "Hey".
 
-- You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, class quizzes, assignments, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
+- You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, quizzes, homework, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
 
-- Reliable internet and computer access will be important; if your access is spotty, develop a backup plan to ensure you can participate in class and complete and submit work on time.
+- Reliable internet and computer access are important; if your access is spotty, develop a backup plan to ensure you can participate in class and complete and submit work on time.
 
-- All reading, class, homework and programming assignments need to be turned in by the dates and times they are due. Canvas submissions must be completed by the Canvas due date/time; if Canvas marks it as late, then it is late. Early submission is permitted.
+- All reading, quizzes, and homeworks need to be turned in by the dates and times they are due. Zybook submissions must be complete on Zybooks by the Zybooks due date/time. Canvas submissions (quiz and homework) must be completed by the Canvas due date/time; if Canvas marks it as late, then it is late. Early submission is permitted.
 
-- A 10% penalty per day (or part of a day) will be applied to work submitted late. Work will not be accepted more than 1 week late. 
+- Reading activities and quizzes are not accepted late without arrangement prior to the due date.
+
+- A 10% penalty per day (or part of a day) will be applied to homework submitted late. Homework will not be accepted more than 1 week late. 
 
 - If you have an excused absence for pre-planned activities, those assignments must be turned in before the due date. 
 
@@ -156,17 +157,17 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - No accommodations will be made for exams unless there is an excused absence.
 
-- Exams dates have been provided at the end of the syllabus. Make your travel plans around these dates.
+- Exams are scheduled in the common exam schedule in the weeks noted in the schedule at the end of this syllabus. Make your travel plans outside these weeks.
 
-- Due to the pandemic, in-class activities will be graded using Canvas quizzes so that they can be completed asynchronously for those unable to attend live. These will be available to complete during class; they should be done individually - do not share your answers with others in the class. If you are unable to attend live, you will be expected to complete all quiz activities by the due date without prior arrangement. 
+- Due to the pandemic, the class quiz will be a Canvas quiz that is available for 24 hours starting at 3pm each Friday, so that they can be completed asynchronously for those unable to attend live. These quizzes are timed (20 minutes, or adjusted for accomodations) and are _individual_ activities - do not share the questions, your work, or the answers with anyone else. You will be expected to complete all quiz activities by the due date without prior arrangement. 
 
-- Recordings of classes will be provided on the same day; if recordings fail for some reason, a replacement recording will be provided by the next day. Note that chat and automatic transcripts/subtitles are also be provided.
+- Recordings of classes will be provided by the next morning at 10am; if recordings fail for some reason, a replacement recording will be provided by the next day. Note that chat and automatic transcripts/subtitles are also be provided.
 
-- Be active and physically take notes/write questions when participating/viewing the recording.
+- Be active and physically take notes/write questions when participating live or viewing the recording.
 
 - You are expected to be courteous during live class, especially during in-class activities.
 
-- Use Piazza for course/assignment questions. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on Piazza, or request solutions to assignments. If you are unsure, submit it privately to me and the TAs. 
+- Use Piazza for CSCI 341 questions. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on Piazza, or request solutions to assignments. If you are unsure, submit it privately to me and the TAs. 
 
 - Use email, a private message on Piazza, the Canvas Inbox, or my office hours if you wish to contact me about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. I will return messages within 24 hours during the week, possibly longer on the weekends.
 
@@ -181,7 +182,7 @@ Our class size is large, so please follow these for a successful class session:
 - Open the chat panel to see shared information and to enter questions.
 - Questions are welcome: unmute and ask a question, or type it into the chat at any time.
 - We may use breakout rooms in small groups then rejoin to discuss results. Breakout rooms are not part of the course recordings. Note that it is easy to mis-click and leave the class rather than return to the main room; if that happens, re-join class as quickly as you can so as not to miss any further material.
-- If you would like clarification on an item, note there will be limited time around classes on Zoom. I will aim to open the Zoom room 5 minutes before each class, and stay 5 minutes after. If you are unable to use that time, please post on Piazza, email me, or come to office hours that afternoon. 
+- If you would like clarification on an item, note there will be limited time around classes on Zoom. I aim to open the Zoom room 5 minutes before each class, and stay 5 minutes after. If you are unable to use that time, please post on Piazza, email me, or come to office hours. 
 
 ## Pandemic Policies
 

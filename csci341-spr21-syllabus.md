@@ -359,13 +359,13 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 12 | 4/5  | Pipelined datapath | 5.6 | |
 |    | 4/7  | Pipeline control   | 5.6 | HW 11 (4/13) |
 |    | 4/9  | Data hazard | 5.7 | Quiz 12 |
-| 13 | 4/12 | Data hazard, continued | 5.7 | |
-|    | 4/14 | Control hazard | 5.8 |  HW 12 (4/20)  |
-|    | 4/16 | Hazards interactions  | 5.7-5.8 |  Quiz 13 |
-| 14 |      | **Module 4: Memory Hierarchy** | | |
-|    | 4/19 | Memory Hierarchy Basics | 6.1-6.3 | |
-|    | 4/21 | Direct-mapped caches | 6.3 |  HW 13 (4/27)  |
-|    | 4/23 | Cache performance | 6.3 | Quiz 14 |
+| 13 | 4/12 | Data & Control hazards  | 5.7-5.8 | |
+|    | 4/14 | Control hazards | 5.8 |  HW 12 (4/20)  |
+|    | 4/16 | *no class*  | | |
+| 14 | 4/19 | Hazards interactions  | 5.7-5.8 | Quiz 13 |
+|    |      | **Module 4: Memory Hierarchy** | | |
+|    | 4/21 | Memory Hierarchy Basics | 6.1-6.3 |  HW 13 (4/27)  |
+|    | 4/23 | Direct-mapped caches | 6.3 | Quiz 14 |
 | 15 | 4/26 | Full/set associative cache design | 6.4 | | 
 |    | 4/28 | Cache access | 6.4 | HW 14 (5/4)  | |
 |    | 4/30 | Virtual memory basics | 6.7 | Quiz 15 |

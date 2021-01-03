@@ -315,6 +315,8 @@ Violating this policy will be treated as an academic misconduct for all students
 
 This schedule is tentative, and is subject to change. Note, reading includes activities in the zyBook; those are required to be completed prior to the start of class. Assignments are due the date they are listed unless a due date is given in parentheses.
 
+Please check Canvas for any updates to this schedule.
+
 | week | date | topic   | reading | assignments  | 
 |------|------|---------|---------|--------------|
 |   |      | **MODULE 1: Overview and Computer Numbers** | | |

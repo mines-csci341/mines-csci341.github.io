@@ -320,7 +320,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |   |      | **MODULE 1: Overview and Computer Numbers** | | |
 | 1 | 1/13 | Introduction, Integers | Syllabus, 1.1 - 1.6 | HW 1 (1/20) |
 |   | 1/15 | Floating point representation | 1.7 | Quiz 1 |
-| 2 | 1/18 | **no class** | | |
+| 2 | 1/18 | *no class* | | |
 |   | 1/20 | Floating point representation | 1.7 | |
 |   |      | **MODULE 2: Assembly Programming in MIPS** | |HW 2 (1/26) | 
 |   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | Quiz 2 |
@@ -333,7 +333,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 5 | 2/8  | Arrays vs. pointers | 2.9 | |
 |   | 2/10 | Procedures | 2.10 |  HW 5 (2/17)  |
 |   | 2/12 | Procedure conventions | 8.6, Canvas | Quiz 5 |
-| 6 | 2/15 | **no class** | | |
+| 6 | 2/15 | *no class* | | |
 |   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/23) |
 |   | 2/19 | Procedure examples | | Quiz 6 |
 | 7 | 2/22 | Instruction formats overview | 2.12 | |
@@ -353,9 +353,9 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 | 11 | 3/22 | single cycle datapath and control integrated | 5.4 | |
 |    | 3/24 | SC Performance |  | HW 10 (4/6)  |
 |    | 3/26 | Pipelining overview | 5.5 | Quiz 11 |
-| SB | 3/29 | **no class** | | |
-|    | 3/31 | **no class** | | |
-|    | 4/2  | **no class** | | |
+| SB | 3/29 | *no class* | | |
+|    | 3/31 | *no class* | | |
+|    | 4/2  | *no class* | | |
 | 12 | 4/5  | Pipelined datapath | 5.6 | |
 |    | 4/7  | Pipeline control   | 5.6 | HW 11 (4/13) |
 |    | 4/9  | Data hazard | 5.7 | Quiz 12 |

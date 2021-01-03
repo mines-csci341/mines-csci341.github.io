@@ -18,6 +18,8 @@ This is a long document; some content you may see in other syllabi, some is spec
 **Office Phone:** 720-432-2366 (cell)<br/>
 **Office Hours:** 10am-11:30am Monday, 2pm-4pm Tuesday, 6pm-7:30pm Wednesday or by arrangement on Thursday or Friday (link in Canvas)
 
+**Course Coordinator:** Dr. Qi Han qhan (at) mines (dot) edu
+
 ### Teaching Assistants (TAs)
 
 (shared with Sections A &amp; B)

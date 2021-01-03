@@ -367,7 +367,7 @@ This schedule is tentative, and is subject to change. Note, reading includes act
 |    | 4/21 | Memory Hierarchy Basics | 6.1-6.3 |  HW 13 (4/27)  |
 |    | 4/23 | Direct-mapped caches | 6.3 | Quiz 14 |
 | 15 | 4/26 | Full/set associative cache design | 6.4 | | 
-|    | 4/28 | Cache access | 6.4 | HW 14 (5/4)  | |
+|    | 4/28 | Cache access | 6.4 | HW 14 (5/4)  |
 |    | 4/30 | Virtual memory basics | 6.7 | Quiz 15 |
 | 16 | 5/3  | *review week* | 1 - 6 | |
 |    | 5/5  | *review week* | 1 - 6 | |

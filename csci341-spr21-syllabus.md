@@ -326,10 +326,10 @@ Please check Canvas for any updates to this schedule.
 |   | 1/15 | Integers, Floating point representation | 1.7 | Quiz 1 |
 | 2 | 1/18 | *no class* | | |
 |   | 1/20 | Floating point representation | 1.7 | HW 2 (1/26)
-|   | 1/22 | CPU Performance, intro  | 1.11 | Quiz 2 |
-| 3 |      | **MODULE 2: Assembly Programming in MIPS** | | |
-|   | 1/25 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | |
-|   | 1/27 | Memory access instructions | 2.5-2.6 | HW 3 (2/2) |
+|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
+|   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | |
+| 2 | 1/25 | Memory access instructions | 2.5-2.6 | |
+|   | 1/27 | Memory access continued | 2.5-2.6 | HW 3 (2/2) |
 |   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
 | 4 | 2/1  | Decision making instructions| 2.8 | |
 |   | 2/3  | Programming examples | 8.1-8.5 | HW 4 (2/9) |
@@ -351,7 +351,7 @@ Please check Canvas for any updates to this schedule.
 |   | 3/10 | FP arithmetic | 1.7 | |
 |   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
 |   |      | **Module 4: CPU Data Pipeline** | | |
-|   | 3/12 | CPU performance evaluation | 4.1, 1.11 | Quiz 9 |
+|   | 3/12 | CPU performance evaluation | 4.1, 4.2 | Quiz 9 |
 | 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | |
 |    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | HW 9 (3/23) |
 |    | 3/19 | Control design | 5.4 | Quiz 10 |

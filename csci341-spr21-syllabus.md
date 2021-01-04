@@ -323,13 +323,13 @@ Please check Canvas for any updates to this schedule.
 |------|------|---------|---------|--------------|
 |   |      | **MODULE 1: Overview and Computer Numbers** | | |
 | 1 | 1/13 | Introduction, Integers | Syllabus, 1.1 - 1.6 | HW 1 (1/20) |
-|   | 1/15 | Floating point representation | 1.7 | Quiz 1 |
+|   | 1/15 | Integers, Floating point representation | 1.7 | Quiz 1 |
 | 2 | 1/18 | *no class* | | |
-|   | 1/20 | Floating point representation | 1.7 | |
-|   |      | **MODULE 2: Assembly Programming in MIPS** | |HW 2 (1/26) | 
-|   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | Quiz 2 |
-| 3 | 1/25 | Memory access instructions | 2.5-2.6 | |
-|   | 1/27 | Memory access instructions II | 2.6 | HW 3 (2/2) |
+|   | 1/20 | Floating point representation | 1.7 | HW 2 (1/26)
+|   | 1/22 | CPU Performance, intro  | 1.11 | Quiz 2 |
+| 3 |      | **MODULE 2: Assembly Programming in MIPS** | | |
+|   | 1/25 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | |
+|   | 1/27 | Memory access instructions | 2.5-2.6 | HW 3 (2/2) |
 |   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
 | 4 | 2/1  | Decision making instructions| 2.8 | |
 |   | 2/3  | Programming examples | 8.1-8.5 | HW 4 (2/9) |
@@ -343,14 +343,15 @@ Please check Canvas for any updates to this schedule.
 | 7 | 2/22 | Instruction formats overview | 2.12 | |
 |   | 2/24 | l format (lui, lw, sw), branch formats | 2.12, 2.13 | HW 7 (3/2)  |
 |   | 2/26 | conditional and unconditional branch instruction formats | 2.13| Quiz 7 |
-| 8 | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | |
+| 8 |      | **MODULE 3: Computer Arithmetic** | | |
+|   | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | |
 |   | 3/3  | Computer arithmetic (mult. algorithms) | 3.3 |  HW 8  (3/9)  |
 |   | 3/5  | Computer arithmetic (division algorithms) | 3.4 | Quiz 8 |
 | 9 | 3/8  | Floating Point arithmetic | 1.7 | (no HW) |
 |   | 3/10 | FP arithmetic | 1.7 | |
 |   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
-|   |      | **Module 3: CPU Data Pipeline** | | |
-|   | 3/12 | CPU performance evaluation | 4.1, 4.2 | Quiz 9 |
+|   |      | **Module 4: CPU Data Pipeline** | | |
+|   | 3/12 | CPU performance evaluation | 4.1, 1.11 | Quiz 9 |
 | 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | |
 |    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | HW 9 (3/23) |
 |    | 3/19 | Control design | 5.4 | Quiz 10 |
@@ -367,7 +368,7 @@ Please check Canvas for any updates to this schedule.
 |    | 4/14 | Control hazards | 5.8 |  HW 12 (4/20)  |
 |    | 4/16 | *no class*  | | |
 | 14 | 4/19 | Hazards interactions  | 5.7-5.8 | Quiz 13 |
-|    |      | **Module 4: Memory Hierarchy** | | |
+|    |      | **Module 5: Memory Hierarchy** | | |
 |    | 4/21 | Memory Hierarchy Basics | 6.1-6.3 |  HW 13 (4/27)  |
 |    | 4/23 | Direct-mapped caches | 6.3 | Quiz 14 |
 | 15 | 4/26 | Full/set associative cache design | 6.4 | | 

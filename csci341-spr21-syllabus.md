@@ -121,7 +121,7 @@ Letter grades will be calculated based on the following intervals:
 
 ## Coursework Return Policy
 
-We aim to return on-time coursework with feedback and grades within 3 days of the due date if submitted on time. Reading and quizzes are usually auto-graded, if manual re-grading is required it will be completed within 3 days of your request. We aim to return late coursework within 1 week of its submission. If outside events slow the return of coursework, students will be notified along with an expected return date.
+We aim to return on-time coursework with feedback and grades within 4 days of the due date if submitted on time. Reading and quizzes are usually auto-graded, if manual re-grading is required it will be completed within 4 days of your request. We aim to return late coursework within 1 week of its submission. If outside events slow the return of coursework, students will be notified along with an expected return date.
 
 If you do not understand from the feedback provided on your coursework how to improve your learning performance, please contact your instructor.
 
@@ -131,17 +131,17 @@ If you do not understand from the feedback provided on your coursework how to im
 would be expected at a future full-time position. My general rule of thumb is:
 **_informal_ is acceptable, but _disrespectful_ is not**. For example, you can address me as Amelia, Prof. Read, or Miss Read, but do not address me as "Hey".
 
-- You are expected to spend 6 to 9 hours on this course each week during out-of-class time, in addition to actively participating during the class time each week. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, quizzes, homework, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
+- In addition to actively participating during the class time each week, you are expected to spend 6 to 9 hours on this course each week outside of class. Out-of-class activities include active reading, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, quizzes, homework, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
 
 - Reliable internet and computer access are important; if your access is spotty, develop a backup plan to ensure you can participate in class and complete and submit work on time.
 
 - All reading, quizzes, and homeworks need to be turned in by the dates and times they are due. Zybook submissions must be complete on Zybooks by the Zybooks due date/time. Canvas submissions (quiz and homework) must be completed by the Canvas due date/time; if Canvas marks it as late, then it is late. Early submission is permitted.
 
-- Reading activities and quizzes are not accepted late without arrangement prior to the due date.
+- Reading activities and quizzes are not accepted late without arrangement prior to the due date or extenuating circumstances preventing prior arrangement.
 
 - A 10% penalty per day (or part of a day) will be applied to homework submitted late. Homework will not be accepted more than 1 week late. 
 
-- If you have an excused absence for pre-planned activities, those assignments must be turned in before the due date. 
+- If you have an excused absence for pre-planned activities on due dates, those due assignments must be turned in before the due date. 
 
 - Other excused absences must be discussed with the instructor and a plan of action defined prior to the due date. This may include an adjusted due date, an adjusted late penalty, or an adjusted assignment, at the discretion of the instructor to ensure course expectations, requirements, and outcomes are met.
 
@@ -163,13 +163,13 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - Due to the pandemic, the class quiz will be a Canvas quiz that is available for 24 hours starting at 3pm each Friday, so that they can be completed asynchronously for those unable to attend live. These quizzes are timed (20 minutes, or adjusted for accomodations) and are _individual_ activities - do not share the questions, your work, or the answers with anyone else. You will be expected to complete all quiz activities by the due date without prior arrangement. 
 
-- Recordings of classes will be provided by the next morning at 10am; if recordings fail for some reason, a replacement recording will be provided by the next day. Note that chat and automatic transcripts/subtitles are also be provided.
+- Recordings of classes will be provided by the next morning at 10am; if recordings fail for some reason, a replacement recording will be provided by the next day. Note that chat (not including private chat) and automatic transcripts/subtitles are also be provided.
 
 - Be active and physically take notes/write questions when participating live or viewing the recording.
 
 - You are expected to be courteous during live class, especially during in-class activities.
 
-- Use Piazza for CSCI 341 questions. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on Piazza, or request solutions to assignments. If you are unsure, submit it privately to me and the TAs. 
+- Use Piazza for CSCI 341 questions. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on Piazza, or request solutions to assignments. If you are unsure, submit it privately to the Instructors on Piazza to share it with just me and the TAs. 
 
 - Use email, a private message on Piazza, the Canvas Inbox, or my office hours if you wish to contact me about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. I will return messages within 24 hours during the week, possibly longer on the weekends.
 
@@ -298,7 +298,7 @@ In addition to the Mines policy, CS@Mines faculty have adopted a [Collaboration 
 
 For CSCI 341, we also apply these collaboration items:
 
-- You are encouraged to discuss ideas around assignments with other students in the class, but do not share answers/code in whole or in part.
+- You are encouraged to discuss ideas around assignments with other students in the class, but do not share answers or code in whole or in part.
 - If you discuss an assignment with anyone (not counting instructors/mentors), you must list their names in your submitted assignment AND provide a brief summary of the discussion, including its benefit to you/impact on your submitted work.
 - You are not allowed to give answers/code you have developed to another student NOR copy answers/code created by another person (student or otherwise).
 - You can ONLY share your screen showing your answers/code in a 1:1 breakout room with an instructor/mentor/TA, not with another student.

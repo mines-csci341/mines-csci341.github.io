@@ -61,7 +61,7 @@ We are going to make use of your programming skills to explore the simplest, yet
 
 ## Course Description
 
-CSCI 341 covers the basic concepts of computer architecture and organization. Topics include machine level instructions and operating system calls used to write programs in assembly language, computer arithmetics, performance, processor design, and pipelining techniques. This course provides insight into the way computers operate at the machine level.
+CSCI 341 covers the basic concepts of computer architecture and organization. Topics include machine level instructions and operating system calls used to write programs in assembly language, computer arithmetic, performance, processor design, pipelining techniques, caching, and the memory hierarchy. This course provides insight into the way computers operate at the hardware level.
 
 ## Learning Outcomes
 

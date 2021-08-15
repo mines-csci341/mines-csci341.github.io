@@ -128,7 +128,7 @@ If you do not understand from the feedback provided on your coursework how to im
 
 - You are expected to engage in all course activities, tasks, and assignment as an emerging professional. The Mines Academic Integrity Policy and CS@Mines Collaboration Policies form a core part of your expected ethical behavior. Make sure you are behaving with the same level of professionalism that
 would be expected at a future full-time position. My general rule of thumb is:
-**_informal_ is acceptable, but _disrespectful_ is not**. For example, you can address me as Amelia, Prof. Read, or Miss Read, but do not address me as "Hey".
+**_informal_ is acceptable, but _disrespectful_ is not**. For example, you can address Prof. Amelia Read as Amelia, Prof. Read, or Miss Read, but do not address any of us as "Hey".
 
 - In addition to actively participating during the class time each week, you are expected to spend 8 to 10 hours on this course each week outside of class. Out-of-class activities include active reading, worksheets, homework, programming assignments, and exams. Examine your weekly schedule and plan where you will be working on CSCI 341: block off class times and sufficient time to complete reading activities, quizzes, homework, and exams. Time management is a critical skill for success in this class, further studies, and professional work.
 

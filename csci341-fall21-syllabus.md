@@ -136,9 +136,9 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - All quizzes, worksheets, and homeworks need to be turned in by the dates and times they are due. Canvas submissions (quiz, worksheet and homework) must be completed by the Canvas due date/time; if Canvas marks it as late, then it is late. Early submission is permitted.
 
-- Reading quizzes are not accepted late without arrangement prior to the due date or extenuating circumstances preventing prior arrangement.
+- Reading quizzes are not accepted late without arrangement prior to the due date, or as soon as possible if there are extenuating circumstances preventing prior arrangement.
 
-- A 10% penalty per day (or part of a day) will be applied to worksheets and homework submitted late. Homework will not be accepted more than 1 week late. 
+- A 10% penalty per day (or part of a day) will be applied to worksheets and homework submitted late. Homework and worksheets will not be accepted more than 1 week late. 
 
 - If you have an excused absence for pre-planned activities on due dates or in the late window, those due assignments must be turned in before the due date. 
 
@@ -152,7 +152,7 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - Be aware and follow the university’s [code of conduct](https://catalog.mines.edu/policiesandprocedures/).
 
-- CS@Mines takes academic integrity seriously. The penalty for violating academic integrity will be determined by the instructor on a case-by-case basis. Be aware of the [CS@Mines policy on collaboration](http://cs-courses.mines.edu/csci101/static/CollaborationPolicy.pdf) - individual work does not permit collaboration. I do not want to see any academic dishonesty in this class! Seek help before this becomes a possibility for you. Note that no sharing of actual work/answers/code on a homework or programming assignment is permitted by the collaboration policy or this class, unless specifically stated otherwise in the assignment description.
+- CS@Mines takes academic integrity seriously. The penalty for violating academic integrity will be determined by the instructor on a case-by-case basis. Be aware of the [CS@Mines policy on collaboration](http://cs-courses.mines.edu/csci101/static/CollaborationPolicy.pdf) - individual work does not permit collaboration. We do not want to see any academic dishonesty in this class! **Seek help before this becomes a possibility for you**. Note that no sharing of actual work/answers/code on a quiz, homework or programming assignment is permitted by the collaboration policy or this class, unless specifically stated otherwise in the assignment description. Only worksheets permit open collaboration.
 
 - For CSCI 341, we also apply these collaboration items for individual work (reading quizzes, homework/programming assignments, and exams):
 
@@ -168,12 +168,11 @@ would be expected at a future full-time position. My general rule of thumb is:
 
     - Student groups and peer reviewers formed for the purpose of worksheets or the Hackation are permitted to share answers/code as described in the assignment or exam within the group, but otherwise the items of the Collaboration Policy and these items apply.
 
- -   If you are aware of students violating this policy, you are encouraged to inform me (the instructor).
+    - If you are aware of students violating this policy, you are encouraged to inform the instructor or course coordinator.
  
- -    Violating this policy will be treated as an academic misconduct for all students involved (both the provider and the receiver of answers). 
+    - Violating this policy will be treated as an academic misconduct for all students involved (both the provider(s) and the receiver(s) of answers). 
 
 - **NOTE:** All issues of misconduct are reported to the Dean of Students. Academic misconduct may result in course failure for all students involved and an entry on your school record.
-
 
 - Prepare for a comprehensive final exam.
 
@@ -187,8 +186,7 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 - Use Piazza for CSCI 341 questions outside of class. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on Piazza, or request solutions to assignments. If you are unsure, submit it privately to the Instructors on Piazza to share it with just the instructors and TAs. 
 
-- Use email, a private message on Piazza, or office hours if you wish to contact your instructor about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. Your instructor will return messages within 24 hours during the week, possibly longer on the weekends.
-
+- Use email, a private message on Piazza, or office hours if you wish to contact your instructor about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. Your instructor will return messages within 24 hours during the school week, possibly longer on the weekends or holidays.
 
 ## Mines Course Policies
 

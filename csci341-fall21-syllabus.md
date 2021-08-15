@@ -6,9 +6,10 @@
 
 **Credit Hours:**     3.0
 
-**Class Meeting Time/Place:**  Section A: MZ326, 2:00-2:50 pm MWF
-                          Section B: 11:00-11:50 am MWF
-                          Section C: 3:00-3:50 pm MWF
+**Class Meeting Time/Place:** <br/>
+                          Section A: MZ 108, 2:00-2:50 pm MWF<br/>
+                          Section B: BB W210, 11:00-11:50 am MWF<br/>
+                          Section C: MZ 326, 3:00-3:50 pm MWF
 
 Do not assume other class policies apply in this class - this syllabus lays out this course's policies. Be sure to read it all, so you are aware of this course's policies and expectations.
 
@@ -25,11 +26,11 @@ Do not assume other class policies apply in this class - this syllabus lays out 
 
 ### Teaching Assistants (TAs)
 
-- Jack Carmichael jcarmichael (at) mymail (dot) mines (dot) edu<br/>
+- Jack Carmichael jcarmichael (at) mines (dot) edu<br/>
     **Office Hours:** TBD
-- Jack Carmichael jcarmichael (at) mymail (dot) mines (dot) edu<br/>
+- David Esposito davidesposito (at) mines (dot) edu<br/>
     **Office Hours:** TBD
-- Jack Carmichael jcarmichael (at) mymail (dot) mines (dot) edu<br/>
+- Mitchell Watkins watkins (at) mines (dot) edu<br/>
     **Office Hours:** TBD
 
 ---

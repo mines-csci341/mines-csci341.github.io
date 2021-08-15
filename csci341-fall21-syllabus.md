@@ -79,7 +79,7 @@ At the end of this course, students will be able to:
 
 NOTE: the following resource is **REQUIRED**. we assign readings and have quizzes on the textbook.
 
-- *Computer Organization and Design: RISC-V Edition* 2nd edition, Pattersen and Hennessy.
+- *Computer Organization and Design: RISC-V Edition* 2nd edition, Pattersen and Hennessy. ISBN 978-0-12-820331-6.
 
 - Additional resources will be provided in the Canvas course shell.
 
@@ -206,71 +206,9 @@ Mines has put in place several policies related to course management. Those poli
 
 ## Course Schedule
 
-This schedule is tentative, and is subject to change. Note, reading includes activities in the zyBook; those are required to be completed prior to the start of class. Assignments are due the date they are listed unless a due date is given in parentheses.
+See separate file for tentative course schedule. This schedule is subject to change. Assignments are due the date they are listed unless a due date is given in parentheses.
 
 Please check Canvas for any updates to this schedule.
-
-| week | date | topic   | reading | assignments  | 
-|------|------|---------|---------|--------------|
-|   |      | **MODULE 1: Overview and Computer Numbers** | | |
-| 1 | 1/13 | Introduction, Integers | Syllabus, 1.1 - 1.6 | HW 1 (1/20) |
-|   | 1/15 | Integers, Floating point representation | 1.7 | Quiz 1 |
-| 2 | 1/18 | *no class* | | |
-|   | 1/20 | Floating point representation | 1.7 | HW 2 (1/26)
-|   |      | **MODULE 2: Assembly Programming in MIPS** | | |
-|   | 1/22 | Arithmetic instructions, MARS introduction | 2.1-2.4, Canvas | |
-| 2 | 1/25 | Memory access instructions | 2.5-2.6 | |
-|   | 1/27 | Memory access continued | 2.5-2.6 | HW 3 (2/2) |
-|   | 1/29 | Bit-wise instructions | 2.7 | Quiz 3 |
-| 4 | 2/1  | Decision making instructions| 2.8 | |
-|   | 2/3  | Programming examples | 8.1-8.5 | HW 4 (2/9) |
-|   | 2/5  | Inequality comparison | 2.9 | Quiz 4  |
-| 5 | 2/8  | Arrays vs. pointers | 2.9 | |
-|   | 2/10 | Procedures | 2.10 |  HW 5 (2/17)  |
-|   | 2/12 | Procedure conventions | 8.6, Canvas | Quiz 5 |
-| 6 | 2/15 | *no class* | | |
-|   | 2/17 | Nested procedure calls | 2.10, 2.11 | HW 6 (2/23) |
-|   | 2/19 | Procedure examples | | Quiz 6 |
-| 7 | 2/22 | Instruction formats overview | 2.12 | |
-|   | 2/24 | l format (lui, lw, sw), branch formats | 2.12, 2.13 | HW 7 (3/2)  |
-|   | 2/26 | conditional and unconditional branch instruction formats | 2.13| Quiz 7 |
-| 8 |      | **MODULE 3: Computer Arithmetic** | | |
-|   | 3/1  | Computer arithmetic (+,-) | 3.1-3.2 | |
-|   | 3/3  | Computer arithmetic (mult. algorithms) | 3.3 |  HW 8  (3/9)  |
-|   | 3/5  | Computer arithmetic (division algorithms) | 3.4 | Quiz 8 |
-| 9 | 3/8  | Floating Point arithmetic | 1.7 | (no HW) |
-|   | 3/10 | FP arithmetic | 1.7 | |
-|   | TBD  | Midterm  | 1, 2, 3 | Common Exam Schedule |
-|   |      | **Module 4: CPU Data Pipeline** | | |
-|   | 3/12 | CPU performance evaluation | 4.1, 4.2 | Quiz 9 |
-| 10 | 3/15 | Single cycle processor design overview | 5.1-5.3  | |
-|    | 3/17 | R format, Load/store, branch  instruction design | 5.3 | HW 9 (3/23) |
-|    | 3/19 | Control design | 5.4 | Quiz 10 |
-| 11 | 3/22 | single cycle datapath and control integrated | 5.4 | |
-|    | 3/24 | SC Performance |  | HW 10 (4/6)  |
-|    | 3/26 | Pipelining overview | 5.5 | Quiz 11 |
-| SB | 3/29 | *no class* | | |
-|    | 3/31 | *no class* | | |
-|    | 4/2  | *no class* | | |
-| 12 | 4/5  | Pipelined datapath | 5.6 | |
-|    | 4/7  | Pipeline control   | 5.6 | HW 11 (4/13) |
-|    | 4/9  | Data hazard | 5.7 | Quiz 12 |
-| 13 | 4/12 | Data & Control hazards  | 5.7-5.8 | |
-|    | 4/14 | Control hazards | 5.8 |  HW 12 (4/20)  |
-|    | 4/16 | *no class*  | | |
-| 14 | 4/19 | Hazards interactions  | 5.7-5.8 | Quiz 13 |
-|    |      | **Module 5: Memory Hierarchy** | | |
-|    | 4/21 | Memory Hierarchy Basics | 6.1-6.3 |  HW 13 (4/27)  |
-|    | 4/23 | Direct-mapped caches | 6.3 | Quiz 14 |
-| 15 | 4/26 | Full/set associative cache design | 6.4 | | 
-|    | 4/28 | Cache access | 6.4 | HW 14 (5/4)  |
-|    | 4/30 | Virtual memory basics | 6.7 | Quiz 15 |
-| 16 | 5/3  | *review week* | 1 - 6 | |
-|    | 5/5  | *review week* | 1 - 6 | |
-| F  | TBD  | Final Exam | | |
-|    | 5/7  | *no class (final exam week)* | | |
-|    | 5/10 | *no class (final exam week)* | | |
-|    | 5/12 | *no class (final exam week)* | | |
 
 ---
 

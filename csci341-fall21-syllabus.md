@@ -193,6 +193,13 @@ would be expected at a future full-time position. My general rule of thumb is:
 
 Mines has put in place several policies related to course management. Those policies will be applied as appropriate to this class, and may impact existing policies. See the separate document provided detailing those.
 
+- please seek help from the resources Mines provides if you are in need; it is there for you, we are here for you!
+
+- respect your peers, TAs, and instructors - we all want to succeed at what we do, and you don't know what those around you may be dealing with outside of class
+
+- let us know if your needs are not being met, and seek accommodation if needed
+
+- respect the OreDigger Promise and the Mines Student Code of Conduct to support Mines' reputation as well as your own
 
 ---
 

@@ -16,7 +16,7 @@ Do not assume other class policies apply in this class - this syllabus lays out 
 ---
 
 **Course Coordinator/Section A Instructor:** [Prof. Amelia Read](https://cs.mines.edu/project/read-amelia/)   read (at) mines (dot) edu<br/>
-**Office Hours:** 11:05am-11:50am MF, 1pm-1:45pm W, or by arrangement
+**Office Hours:** all on Zoom (link on Canvas) 11:05am-11:50am MF, 1pm-1:45pm W, or by arrangement
 
 **Section B Instructor:** Prof. Kyle Moran ksmoran (at) mines (dot) edu<br/>
 **Office Hours:** TBD

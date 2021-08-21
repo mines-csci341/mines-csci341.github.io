@@ -7,11 +7,13 @@
 **Credit Hours:**     3.0
 
 **Class Meeting Time/Place:** <br/>
-                          Section A: MZ 108, 2:00-2:50 pm MWF<br/>
+                          Section A: MZ 108, 2:00-2:50 pm MWF (Recorded)<br/>
                           Section B: BB W210, 11:00-11:50 am MWF<br/>
                           Section C: MZ 326, 3:00-3:50 pm MWF
 
 Do not assume other class policies apply in this class - this syllabus lays out this course's policies. Be sure to read it all, so you are aware of this course's policies and expectations.
+
+Section A will be recorded and made available to all sections for students who are quarantined or ill.
 
 ---
 
